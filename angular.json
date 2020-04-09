@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "namari": {
@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "namari"
+    }
+  },
+  "defaultProject": "namari",
+  "cli": {
+    "analytics": "1a0c5ff5-d8ea-4d6f-b1f9-b5e64a0bb407"
+  }
 }
